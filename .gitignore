@@ -1,0 +1,16 @@
+# PyCharm
+/.idea
+
+# VSCode
+/.vscode
+*.code-workspace
+
+# NodeJs
+/node_modules
+
+# VitePress
+/.vitepress/cache
+/.vitepress/dist
+
+# Script
+/.script
